@@ -1,3 +1,4 @@
+<!--Logo not mine Credits to brandsbysam (link:https://logopond.com/brandsbysam/showcase/detail/271676)-->
 <h1 align=center>
   Rock🗿 Paper 📄 Scissor ✂️
 </h1>
@@ -7,10 +8,29 @@
     <img alt="Version" src="https://img.shields.io/static/v1?label=Version&message=1.0&logoColor=white&color=yellow&style=for-the-badge">
     <br>
   
-  <br>A simple game for the completion of <b>Computer Programming 2 Task Perforance in Pre Finals</b> (1st Semester)</br>
+  <b><br>A simple game for the completion of <b>Computer Programming 2 Task Perforance in Pre Finals</b> (1st Semester)<b></br>
+</h4>
+  
+## **The rules 📜**
+The rules remain the same as the original game: Rock beats scissors, Scissors beats paper and paper beats rock.
+  The rules are easy, the game is simple.
+  
+  - If you choose Rock, you will win against Scissors but lose against Paper.
+  - If you choose Scissors, you will win against Paper but lose against Rock.
+  - If you choose Paper, you will win against Rock but lose against Scissors.
 
-### **Language and IDE used**
-Language: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  The game ends when player gets 5 wins. If you want to play again, just click “OK” button after a game is finished.<br>
+  Maybe your opponent is just a Computer but don't get fooled by it. 
 
-IDE: ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-  </h4>
+ <!--## **Game Screenshots 📸**-->
+  
+  
+  
+## **Programming Language and IDE used 💻**
+  Language: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
+  IDE: ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+  
+## **Thank You 🤗**
+  Did you like the project? Give me a 🌟.<br>
+  Wish to improve the game? Feel free to contribute.<br>
+  Love learning something new from you. 🤗
