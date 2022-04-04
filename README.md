@@ -28,11 +28,11 @@ The rules remain the same as the original game: Rock beats scissors, Scissors be
 
  ## **Game Screenshots 📸**
   #### Splash Screen and Main Screen
-  <img src="https://github.com/nickichann01/Simple-Game/blob/master/Opening.jpeg" width="400">
+  <img src="https://github.com/nickichann01/Simple-Game/blob/master/Opening.jpeg" width="400">&nbsp;
   <img src="https://github.com/nickichann01/Simple-Game/blob/master/MainScreen.jpeg" width="400"><br>
   
   #### Player Win and Computer Win
-  <img src="https://github.com/nickichann01/Simple-Game/blob/master/PlayerWin.jpeg" width="400">
+  <img src="https://github.com/nickichann01/Simple-Game/blob/master/PlayerWin.jpeg" width="400">&nbsp;
   <img src="https://github.com/nickichann01/Simple-Game/blob/master/Computer%20win.jpeg" width="400"><br>
   
   
