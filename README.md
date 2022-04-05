@@ -43,4 +43,5 @@ The rules remain the same as the original game: Rock beats scissors, Scissors be
 ## **Thank You 🤗**
   Did you like the project? Give me a 🌟.<br>
   Wish to improve the game? Feel free to contribute.<br>
+  Did I help you with your assignment? Give me a 🌟.<br>
   Love learning something new from you. 🤗
