@@ -40,6 +40,9 @@ The rules remain the same as the original game: Rock beats scissors, Scissors be
   Language: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
   IDE: ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
   
+## **Credits**  
+  Credits to the rightful owners of the Images and Icons.
+  
 ## **Thank You 🤗**
   Did you like the project? Give me a 🌟.<br>
   Wish to improve the game? Feel free to contribute.<br>
